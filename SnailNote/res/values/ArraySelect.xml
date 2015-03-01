@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="select">
-        <item>重命名</item>
-        <item>删     除</item>
-    </string-array>
-</resources>
