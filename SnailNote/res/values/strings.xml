@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蜗牛的笔记</string>
+    <string name="save">保存</string>
+    <string name="quit">退出</string>
+    <string name="action_settings">保存</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="label"></string>
+	<string name="textTitle">标题:</string>
+	<string name="textContent">内容:</string>
+	<string name="articlelsit">文章列表</string>
+	<string name="articles">文章列表</string>
+	<string name="tColor">颜色</string>
+	<string name="tSize">大小</string>
+	
+	<string name="destory">新建</string>
+	<string name="font">字体</string>
+	<string name="simple">字体</string>
+	<string name="artlist">文章列表</string>
+	<string name="defValue">新名字</string>
+	<string name="noteAlert">请输入标题</string>
+</resources>
